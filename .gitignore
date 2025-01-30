@@ -1,0 +1,6 @@
+local_datasets/*
+*__pycache__*
+checkpoints/
+output/
+NLP/gpt2/__pycache__/
+NLP/transfomers/src/transfomers/__pycache__/*
